@@ -1,0 +1,22 @@
+ 
+ div{
+    padding: 15px ;
+border: solid 5px red;
+margin: 5px
+}
+h1{
+    padding: 15px ;
+    border: solid 7px purple;
+    margin: 5px
+}
+h2{
+    padding: 15px ;
+    border: solid 10px green;
+    margin: 5px
+}
+p{
+    padding: 15px ;
+    border: solid 3px blue;
+    margin: 5px
+}
+
